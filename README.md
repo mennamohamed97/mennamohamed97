@@ -28,7 +28,7 @@
 <br> 
 <br> 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha.&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
