@@ -5,8 +5,6 @@
 
 ## <img align="center" src="https://drive.google.com/uc?export=view&id=1rjwszVBEmC9AA35EAo92Y3qlKnsoGNKF" width="50"> About me
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1g7aqntc6hNX2UgIPHCfWySFqZmD6H2rD" width="250">
-
 - 🌱 I’m currently learning **Flutter Development**
 
 - 💻 I love using Software as a solution for every **Problem.**
