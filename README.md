@@ -10,11 +10,12 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XngKZ96CA-qJtSveQ57eBVWF0tcJYRKQ/view?usp=sharing)
 
-- 🌐 Check out my portfolio [My Portfolio](https://mennamohamed97.github.io/)
-
 - 📫 How to reach me **mennaallah.mabas@gmail.com**
 
 - ⚡ Fun fact **Hard Working and Always Learning**
+
+<h3 align="left">Check out my portfolio <a href="https://mennamohamed97.github.io/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/503f37c3-8935-4652-8dda-5cfdc84f2511" height="60" width="60" /></a></h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
