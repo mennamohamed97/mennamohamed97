@@ -1,6 +1,4 @@
-<img align="center" src="https://i.pinimg.com/736x/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.jpg" height="200" width="1000">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mennamohamed97.mennamohamed97" />
+<img align="center" src="https://github.com/mennamohamed97/mennamohamed97/blob/main/github%20banner.png" height="200" width="1000">
 
 <h1 align="center"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--octocat-brand-development-tools-pack-logos-icons-225988.png?f=webp&w=256" height="60"> Hi, I'm Menna Moahamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
