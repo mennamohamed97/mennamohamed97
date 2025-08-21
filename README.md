@@ -2,7 +2,7 @@
 
 <h1 align="center"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--octocat-brand-development-tools-pack-logos-icons-225988.png?f=webp&w=256" height="60"> Hi, I'm Menna Moahamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="center">z
   <img src="https://readme-typing-svg.herokuapp.com?color=F4C2C2&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;A+Passionate+Software+Engineer+Specializing+in+Mobile+App+Development;Crafting+Elegant+and+Efficient+Mobile+Solutions" alt="Typing SVG">
 </p>
 
@@ -13,7 +13,7 @@
 
 - 💻 I love using Software as a solution for every **Problem.**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XngKZ96CA-qJtSveQ57eBVWF0tcJYRKQ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UEMEEGUs2GNUPGtA5LVXxuhCXpdh-nd5/view?usp=sharing)
 
 - 📫 How to reach me **mennaallah.mabas@gmail.com**
 
